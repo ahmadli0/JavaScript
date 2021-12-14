@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: #283faa;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    padding: 20px 45px;
+    background-color: transparent;
+    border: 5px solid #ffffff;
+    color: #ffffff;
+    letter-spacing: 15px;
+    border-radius: 50px;
+    cursor: pointer;
+    outline: none;
+}
+button:hover{
+    border: 5px solid gainsboro;
+    color: gainsboro;
+}
