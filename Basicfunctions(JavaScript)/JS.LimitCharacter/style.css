@@ -47,8 +47,7 @@ p{
   color: #ffffff;
 }
 #button:disabled{
-  padding: 4px 16px;
-  background-color: #5d54b3; 
+  padding: 4px 16px; 
   border-style:none;
   border-radius:16px;
   color: #ffffff;
