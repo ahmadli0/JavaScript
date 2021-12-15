@@ -34,21 +34,28 @@ textarea{
 .content{
     margin-top: 15px;
 }
-/* button{
-    display: inline-block;
-    padding: 6px 18px;
-    float: left;
-    cursor: pointer; 
-    background-color: #5d54b3;
-    border-radius: 8px;
-    border-style: none;
-    color: #ffffff;
-}
-button:hover{
-    background-color: #7065d1;
-} */
 p{
     display: inline-block;
     float: right;
     color: #737373;
+}
+#button:enabled{
+  padding: 4px 16px;
+  background-color: #5d54b3 !important; 
+  border-style:none;
+  border-radius:16px;
+  color: #ffffff;
+}
+#button:disabled{
+  padding: 4px 16px;
+  background-color: #5d54b3; 
+  border-style:none;
+  border-radius:16px;
+  color: #ffffff;
+}
+#button:hover:enabled{
+  background-color:#7569dd !important;
+}
+#button:active:enabled{
+  background-color:#8274fa !important;
 }
