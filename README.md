@@ -1,4 +1,4 @@
-# JavaScript basic functions
+# JavaScript-Basics projects
 You can see previews of my basic projects at the links <b>below</b>:
 ### TurnOnOffLight 
 https://codepen.io/saidahmadli/pen/QWqKXqb tap here for a quick preview of my project.
